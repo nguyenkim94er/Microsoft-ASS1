@@ -41,7 +41,9 @@ class BKOOLLexer extends StdLexical with BKOOLTokens {
   }
 
   // TODO student add code here to complete token
-  reserved ++= List( "class", "extends", "int")
+  reserved ++= List("bool", "extends", "string", "false", "break", "float", "then", "void", "class", "for",
+                    "to", "null", "continue", "if", "until", "self", "do", "integer", "while", "final", 
+                    "downto", "new", "return", "else", "repeat", "true")
 
   delimiters ++= List(":", ";", "{", "}")
 
