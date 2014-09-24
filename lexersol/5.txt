@@ -1,0 +1,42 @@
+`class'
+ErrorToken M
+identifier ain
+`{'
+ErrorToken M
+ErrorToken [
+IntLit: 4
+ErrorToken ]
+identifier main
+ErrorToken (
+ErrorToken )
+`{'
+identifier if
+identifier a
+ErrorToken >
+identifier b
+identifier then
+identifier a
+`:'
+ErrorToken =
+IntLit: 3
+`;'
+`}'
+ErrorToken M
+ErrorToken [
+IntLit: 4
+ErrorToken ]
+identifier main
+ErrorToken (
+ErrorToken )
+`{'
+identifier if
+identifier a
+ErrorToken >
+identifier b
+identifier then
+identifier a
+ErrorToken =
+IntLit: 3
+`;'
+`}'
+`}'

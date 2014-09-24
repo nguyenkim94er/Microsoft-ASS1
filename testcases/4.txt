@@ -1,0 +1,2 @@
+class A extends B {void main(a:integer) {}}
+class A {void main(a:integer)}

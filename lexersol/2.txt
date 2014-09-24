@@ -1,0 +1,6 @@
+identifier final
+identifier integer
+identifier ax
+ErrorToken =
+IntLit: 3
+`;'

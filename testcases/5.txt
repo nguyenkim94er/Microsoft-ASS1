@@ -1,0 +1,4 @@
+class Main {
+M[4] main(){if a>b then a:= 3; }
+M[4] main(){if a>b then a= 3; }
+}

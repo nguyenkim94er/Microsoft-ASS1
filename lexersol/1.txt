@@ -1,0 +1,10 @@
+`class'
+identifier abc
+`extends'
+identifier def
+`{'
+identifier x
+`:'
+`int'
+`;'
+`}'

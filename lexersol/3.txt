@@ -1,0 +1,7 @@
+`class'
+ErrorToken A
+`{'
+`}'
+`class'
+ErrorToken B
+`}'

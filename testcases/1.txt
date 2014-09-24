@@ -1,0 +1,3 @@
+class abc extends def {
+x : int;
+}
