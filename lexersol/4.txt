@@ -3,24 +3,24 @@ ErrorToken A
 `extends'
 ErrorToken B
 `{'
-identifier void
+`void'
 identifier main
-ErrorToken (
+`('
 identifier a
 `:'
-identifier integer
-ErrorToken )
+`integer'
+`)'
 `{'
 `}'
 `}'
 `class'
 ErrorToken A
 `{'
-identifier void
+`void'
 identifier main
-ErrorToken (
+`('
 identifier a
 `:'
-identifier integer
-ErrorToken )
+`integer'
+`)'
 `}'

@@ -5,6 +5,8 @@ identifier def
 `{'
 identifier x
 `:'
-`int'
+identifier int
 `;'
+ErrorToken A
+ErrorToken A
 `}'

@@ -1,6 +1,6 @@
-identifier final
-identifier integer
+`final'
+`integer'
 identifier ax
-ErrorToken =
+ErrorToken  
 IntLit: 3
 `;'

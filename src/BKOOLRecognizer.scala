@@ -45,7 +45,9 @@ class BKOOLLexer extends StdLexical with BKOOLTokens {
   					"class", "for", "to", "null", "continue", "if", "until", "self",
   					"do", "integer", "while", "final", "downto", "new", "return", "else", "repeat", "true")
 
-  delimiters ++= List(":", ";", "{", "}")
+  delimiters ++= List("[", "]", "{", "}", "(", ")", ";", ":", ".", ",",
+                      "+", "*", "\\", ":=", "<", "<=", "<>", "!", "^",
+                      "-", "/", "%", "==", ">", ">=", "&&", "||", "new")
 
   override def token: Parser[Token] = {
     // Adapted from StdLexical
