@@ -1,0 +1,1 @@
+for /L %%i in (1,1,5) do scala -classpath ..\bin Main -testrecogniser ..\testcases\%%i.txt > ..\recogsol\%%i.txt
