@@ -1,0 +1,40 @@
+`class'
+identifier Main
+`{'
+identifier M
+`['
+IntLit: 4
+`]'
+identifier main
+`('
+`)'
+`{'
+`if'
+identifier a
+`>'
+identifier b
+`then'
+identifier a
+`:='
+IntLit: 3
+`;'
+`}'
+identifier M
+`['
+IntLit: 4
+`]'
+identifier main
+`('
+`)'
+`{'
+`if'
+identifier a
+`>'
+identifier b
+`then'
+identifier a
+`='
+IntLit: 3
+`;'
+`}'
+`}'

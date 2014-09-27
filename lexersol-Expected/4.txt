@@ -1,0 +1,26 @@
+`class'
+identifier A
+`extends'
+identifier B
+`{'
+`void'
+identifier main
+`('
+identifier a
+`:'
+`integer'
+`)'
+`{'
+`}'
+`}'
+`class'
+identifier A
+`{'
+`void'
+identifier main
+`('
+identifier a
+`:'
+`integer'
+`)'
+`}'

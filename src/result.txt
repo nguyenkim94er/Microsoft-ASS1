@@ -1,0 +1,12 @@
+
+D:\My Documents\PhungUser\File Sharing\important\Monhoc\KS-NNLT\2014CQ\Assignments\Assignment1\upload\src>scala -classpath ..\bin Main -testlexer ..\input.txt 
+`class'
+identifier abc
+`extends'
+identifier def
+`{'
+identifier x
+`:'
+`int'
+`;'
+`}'
